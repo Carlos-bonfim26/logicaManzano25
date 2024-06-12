@@ -1,3 +1,3 @@
 ﻿using listaManzano;
-exer66K.Main(args);
+temporizador.Main(args);
 
