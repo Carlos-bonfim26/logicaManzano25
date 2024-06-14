@@ -1,3 +1,3 @@
 ﻿using listaManzano;
-temporizador.Main(args);
+exer74B.Main(args);
 

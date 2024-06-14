@@ -20,8 +20,6 @@ namespace listaManzano
             {
                 if (m < 0 && t2 < 0)
                 {
-                    Console.WriteLine("o tempo acabou");
-                    Thread.Sleep(1000);
                     break;
                 }
                 else
